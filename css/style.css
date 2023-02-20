@@ -44,7 +44,8 @@ nav a:focus{
 
   /* Requirement 5 code here -- Do not remove this comment. */
 .about{
-  grid-column: 2 / 3;
+  grid-column-start: 2;
+  grid-column-end: 3;
   height: max-content;
   align-self: center;
 }
