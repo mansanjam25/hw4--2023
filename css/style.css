@@ -31,7 +31,7 @@ nav a:focus{
   /* Requirement 4 code here -- Do not remove this comment. */
 
 .intro{
-    background: url(/images/header.jpg);
+    background: url(../images/header.jpg);
     background-color: #858585; 
     background-attachment: fixed;
     background-position: center;
